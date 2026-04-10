@@ -58,7 +58,7 @@ python src/train_xgboost.py
 
 ---
 
-## ?? Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas / NumPy
