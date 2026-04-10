@@ -42,21 +42,6 @@ Top feature:
 
 ---
 
-##  Project Structure
-project/
-¢u¢w¢w src/
-¢x ¢|¢w¢w train_xgboost.py
-¢u¢w¢w notebooks/
-¢x ¢|¢w¢w analysis.ipynb
-¢u¢w¢w data/
-¢x ¢|¢w¢w simulated_data.csv
-¢u¢w¢w images/
-¢x ¢|¢w¢w feature_importance.png
-¢u¢w¢w requirements.txt
-¢|¢w¢w README.md
-
----
-
 ##  How to Run
 
 ```bash
